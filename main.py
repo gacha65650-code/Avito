@@ -14,7 +14,7 @@ import utils
 logging.basicConfig(level=logging.INFO)
 
 # Конфиг
-API_TOKEN = "8758382787:AAGaMznN0TiJJHMdxf5ikGT0jEp1ZkIGyjQ"
+API_TOKEN = ""
 PROXY_URL = "http://193.58.109.9:8000"
 PROXY_AUTH = BasicAuth("FurzTb", "Zn1oQT")
 
