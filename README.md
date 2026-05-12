@@ -63,3 +63,9 @@ guitars.db — Файл базы данных SQLite.
 * Важные примечания
 База данных: Если вы меняете структуру колонок в database.py, удалите старый файл guitars.db, чтобы бот пересоздал его корректно.
 
+
+
+
+
+
+P.S. husband of this woman (https://github.com/denistoyt)
