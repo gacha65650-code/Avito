@@ -68,4 +68,3 @@ guitars.db — Файл базы данных SQLite.
 
 
 
-P.S. husband of this woman (https://github.com/denistoyt)
